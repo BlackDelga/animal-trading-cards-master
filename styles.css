@@ -1,0 +1,40 @@
+/* add your CSS here */
+
+p {
+	font-family: Helvetica, "Trebuchet MS", Verdana, sans-serif;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+h3 {
+	font-size: larger;
+}
+.facts {
+	font-style: italic;
+}
+span {
+	font-weight: bold;
+}
+img {
+	width: 300px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+/*  div container for my card  */
+.first_container {
+	border-radius: 1.9%;
+	border-style: groove;
+	border-color: #eee;
+	max-width: 300px;
+	margin: 10px auto;
+	padding: 20px;
+	border: 2px solid;
+	box-shadow: 5px 5px #888888;
+}
+.second_container {
+	max-width: 300px;
+	border: 0.5px solid;
+	padding: 15px;
+}
+.ul {
+	list-style-type: none;
+}
